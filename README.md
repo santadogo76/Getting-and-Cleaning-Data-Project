@@ -9,8 +9,8 @@ REQUIRED FILES ON THIS PROJECT INCLUDE:
 2. CodeBook.md - decribes the variables, the data, and the transformations that we used in performing the clean up execise
 3. run_analysis.R - the actual R code
 
-PROJECT SUMMARY
-Create one R script called run_analysis.R and 
+PROJECT SUMMARY.
+ .Create one R script called run_analysis.R and 
 1. merges the training and the test sets to create one data set
 2. Extracts only the measurements on the mean and standard deviation for each measurement
 3. Uses descriptive activitity names to name the activities in the data set
