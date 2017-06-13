@@ -21,3 +21,15 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 3. Uses descriptive activitity names to name the activities in the data set
 4. Appropriately labels the dataset with descriptive variable names
 5. Create a second, independet tidy set with the avarage of each variable for each activity and each subject.
+
+## STEPS:
+1. Download the data source and put into a folder on your local drive. You'll have a UCI HAR Dataset folder.
+
+2. Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function in RStudio.
+
+3. Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
+
+## NOTES:
+
+run_analysis.R file will help you to install the dependencies automatically. And this will depend on reshape2 and data.table
+
