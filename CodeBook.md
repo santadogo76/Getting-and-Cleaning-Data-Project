@@ -1,3 +1,6 @@
+CODEBOOK DATASET
+VARIABLES:
+
 subject                    1..2
     Subject number
                            1..30 .Unique identifier assigned to each subject
@@ -13,9 +16,11 @@ label                      6..18
 
 tbodyaccmeanx              12
     Described below
+    
 
 tbodyaccmeany              12
     Described below
+
 
 tbodyaccmeanz              12
     Described below
